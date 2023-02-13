@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Redberry-Resume-Builder/static/css/main.ea1fda20.chunk.css",
+    "main.js": "/Redberry-Resume-Builder/static/js/main.099c8b6d.chunk.js",
+    "main.js.map": "/Redberry-Resume-Builder/static/js/main.099c8b6d.chunk.js.map",
+    "runtime-main.js": "/Redberry-Resume-Builder/static/js/runtime-main.53ede8ca.js",
+    "runtime-main.js.map": "/Redberry-Resume-Builder/static/js/runtime-main.53ede8ca.js.map",
+    "static/js/2.512d6096.chunk.js": "/Redberry-Resume-Builder/static/js/2.512d6096.chunk.js",
+    "static/js/2.512d6096.chunk.js.map": "/Redberry-Resume-Builder/static/js/2.512d6096.chunk.js.map",
+    "index.html": "/Redberry-Resume-Builder/index.html",
+    "static/css/main.ea1fda20.chunk.css.map": "/Redberry-Resume-Builder/static/css/main.ea1fda20.chunk.css.map",
+    "static/js/2.512d6096.chunk.js.LICENSE.txt": "/Redberry-Resume-Builder/static/js/2.512d6096.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Redberry-Resume-Builder/static/media/HelveticaNeue-01.b517f267.ttf",
+    "static/media/Line.c89d13d3.svg": "/Redberry-Resume-Builder/static/media/Line.c89d13d3.svg",
+    "static/media/arrow.83a1615e.svg": "/Redberry-Resume-Builder/static/media/arrow.83a1615e.svg",
+    "static/media/at-symbol.ae1e57e4.svg": "/Redberry-Resume-Builder/static/media/at-symbol.ae1e57e4.svg",
+    "static/media/close.66d47612.svg": "/Redberry-Resume-Builder/static/media/close.66d47612.svg",
+    "static/media/invalid.3c18dc36.svg": "/Redberry-Resume-Builder/static/media/invalid.3c18dc36.svg",
+    "static/media/phone.094b9b6d.svg": "/Redberry-Resume-Builder/static/media/phone.094b9b6d.svg",
+    "static/media/redberry_logo.83180125.svg": "/Redberry-Resume-Builder/static/media/redberry_logo.83180125.svg",
+    "static/media/round-red-logo.f6f9be1d.svg": "/Redberry-Resume-Builder/static/media/round-red-logo.f6f9be1d.svg",
+    "static/media/round_logo.16277e36.svg": "/Redberry-Resume-Builder/static/media/round_logo.16277e36.svg",
+    "static/media/Home.css": "/Redberry-Resume-Builder/static/media/shutterstock.dd514b32.svg",
+    "static/media/valid.7e7d6c96.svg": "/Redberry-Resume-Builder/static/media/valid.7e7d6c96.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53ede8ca.js",
+    "static/js/2.512d6096.chunk.js",
+    "static/css/main.ea1fda20.chunk.css",
+    "static/js/main.099c8b6d.chunk.js"
+  ]
+}
