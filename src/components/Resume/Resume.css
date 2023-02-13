@@ -1,0 +1,87 @@
+.cv {
+  display: flex;
+  justify-content: center;
+}
+
+.contacts {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.contacts img {
+  height: 18px;
+  width: 18px;
+  margin-right: 11px;
+}
+
+.about {
+  display: grid;
+  grid-template-columns: auto 246px;
+}
+
+.profile-photo {
+  width: 246px;
+  height: 246px;
+  border-radius: 133px;
+}
+
+.cv-with-frame {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  padding: 48px 75px 100px 80px;
+  background-color: white;
+  width: 822px;
+  box-sizing: border-box;
+}
+
+.congrats {
+  height: 150px;
+  width: 400px;
+  margin-top: 60px;
+}
+
+.red-circle-resume {
+  height: 40px;
+  width: 40px;
+  margin-left: 80px;
+  position: absolute;
+  left: 0;
+  bottom: 30px;
+}
+
+.name {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 42px;
+  color: #f93b1d;
+  margin-bottom: 17px;
+}
+
+.description {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  color: #000000;
+}
+
+.item-title {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+  color: #1a1a1a;
+}
+
+.dates {
+  font-style: italic;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  color: #919191;
+  margin: 7px 0 16px 0;
+}
+
+.item {
+  margin-bottom: 19px;
+}

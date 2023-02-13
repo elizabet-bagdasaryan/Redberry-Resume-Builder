@@ -1,0 +1,112 @@
+@font-face {
+  font-family: "helvetica_neueregular";
+  src: url(./fonts/HelveticaNeue-01.ttf);
+}
+
+* {
+  font-family: "Helvetica Neue";
+}
+
+body {
+  background-color: rgb(249, 249, 249);
+}
+
+hr {
+  margin-top: 19px;
+}
+
+.main {
+  min-height: 100vh;
+}
+
+input,
+select,
+textarea {
+  outline: none;
+  border: 1px solid #bcbcbc;
+}
+
+input.error,
+select.error,
+textarea.error {
+  border: 1px solid #fe3b1f;
+}
+
+input.correct,
+select.correct,
+textarea.correct {
+  border: 1px solid #98e37e;
+}
+
+.right h1,
+h3 {
+  color: #f93b1d;
+  margin: 15px 0;
+}
+
+.right {
+  background-color: white;
+  padding: 50px 0 0 80px;
+  justify-content: space-between;
+  position: relative;
+}
+
+.left {
+  padding-right: 120px;
+  padding-left: 150px;
+  padding-bottom: 30px;
+}
+
+.right h3 {
+  font-size: 18px;
+  margin: 25px 0 15px;
+}
+
+.right h5 {
+  color: #909090;
+  font-style: italic;
+  font-weight: 400;
+  margin: 11px 0 15px;
+}
+
+.right div {
+  font-size: 16px;
+  display: flex;
+}
+
+.right p {
+  color: #1a1a1a;
+}
+
+.right hr {
+  margin: 15px 0;
+}
+
+.red-circle {
+  height: 40px;
+  width: 40px;
+  margin: 40px 80px;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+}
+
+.reset-button {
+  position: absolute;
+  left: 48px;
+  top: 45px;
+  cursor: pointer;
+}
+
+.add-new-button {
+  padding: 14px 21px;
+  background: #62a1eb;
+  border-radius: 4px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+  color: #ffffff;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}

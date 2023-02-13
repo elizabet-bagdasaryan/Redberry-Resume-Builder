@@ -1,0 +1,29 @@
+.dates {
+  display: flex;
+}
+
+.position {
+  display: flex;
+  flex-direction: column;
+  padding-top: 40px;
+}
+
+.employer {
+  display: flex;
+  flex-direction: column;
+}
+
+.experience-button {
+  background-color: #62a1eb;
+  color: white;
+  font-size: 14px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  margin-bottom: 50px;
+  cursor: pointer;
+}
+
+.experience-hr {
+  margin: 25px 0 10px;
+}

@@ -1,0 +1,18 @@
+.step-buttons button {
+  background-color: #6b40e3;
+  color: white;
+  padding: 10px 30px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 15px;
+}
+
+.step-buttons button:hover {
+  background-color: #512faf;
+}
+
+.step-buttons {
+  display: flex;
+  justify-content: space-between;
+}

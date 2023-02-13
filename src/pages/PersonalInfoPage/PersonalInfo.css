@@ -1,0 +1,121 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 40px;
+}
+
+.header p {
+  font-size: 20px;
+  margin-top: 12px;
+}
+
+.main {
+  background-color: #f9f9f9;
+}
+
+input,
+select {
+  height: 30px;
+  width: 600px;
+  border-radius: 4px;
+  padding-left: 10px;
+  margin-bottom: 8px;
+  border-color: #bcbcbc;
+}
+
+.name_surname {
+  display: flex;
+  margin-bottom: 50px;
+}
+
+.name_surname input,
+.name_surname select {
+  width: 262px;
+}
+.name_surname div {
+  display: flex;
+  flex-direction: column;
+}
+
+.text_info textarea {
+  width: 600px;
+  height: 100px;
+  border-radius: 4px;
+  padding: 10px 0 0 10px;
+  border-width: 2px;
+  margin-top: 2px;
+}
+
+.text_info p {
+  font-weight: 600;
+}
+.main label {
+  font-weight: 600;
+}
+
+.phone-number {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 80px;
+}
+
+.email_block {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-container span {
+  color: #2e2e2e;
+  font-size: 14px;
+}
+
+.form-container div {
+  margin-top: 15px;
+}
+
+.main {
+  display: flex;
+}
+
+.form-container label {
+  margin-bottom: -12px;
+}
+
+.error-image {
+  height: 19px;
+  width: 21px;
+  position: absolute;
+  margin: 2rem 0 0 17.5rem;
+}
+.error-image1 {
+  height: 19px;
+  width: 21px;
+  position: absolute;
+  margin: 2rem 0 0 39rem;
+}
+
+.header p {
+  margin-left: 365px;
+}
+
+.correct-img {
+  height: 16px;
+  width: 16px;
+  position: absolute;
+  margin: 2.2rem 0 0 15.5rem;
+}
+
+.correct-img1 {
+  height: 16px;
+  width: 16px;
+  position: absolute;
+  margin: 2.2rem 0 0 36.5rem;
+}
+.name-inp {
+  margin-right: 60px;
+}
+
+.right h1 {
+  font-size: 34px;
+  margin-bottom: 18px;
+}

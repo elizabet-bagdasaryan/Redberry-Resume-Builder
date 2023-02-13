@@ -1,0 +1,23 @@
+.photo {
+  display: flex;
+  align-items: baseline;
+  margin-bottom: 50px;
+}
+
+.photo label {
+  background-color: #0e80bf;
+  border-radius: 4px;
+  color: white;
+  border: none;
+  padding: 4px 20px;
+  font-size: 14px;
+  cursor: pointer;
+}
+.photo p {
+  font-size: 18px;
+  font-weight: 600;
+  margin-right: 30px;
+}
+.photo label:hover {
+  background-color: #62a1eb;
+}
